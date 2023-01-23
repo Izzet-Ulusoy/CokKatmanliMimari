@@ -1,0 +1,14 @@
+C:\LunaProjects\cokkatmanlimimari\CokKatmanliMimari\CKM.DAL\bin\Debug\CKM.DAL.dll.config
+C:\LunaProjects\cokkatmanlimimari\CokKatmanliMimari\CKM.DAL\bin\Debug\CKM.DAL.dll
+C:\LunaProjects\cokkatmanlimimari\CokKatmanliMimari\CKM.DAL\bin\Debug\CKM.DAL.pdb
+C:\LunaProjects\cokkatmanlimimari\CokKatmanliMimari\CKM.DAL\obj\Debug\CKM.DAL.csproj.AssemblyReference.cache
+C:\LunaProjects\cokkatmanlimimari\CokKatmanliMimari\CKM.DAL\obj\Debug\CKM.DAL.csproj.CoreCompileInputs.cache
+C:\LunaProjects\cokkatmanlimimari\CokKatmanliMimari\CKM.DAL\obj\Debug\CKM.DAL.dll
+C:\LunaProjects\cokkatmanlimimari\CokKatmanliMimari\CKM.DAL\obj\Debug\CKM.DAL.pdb
+C:\LunaProjects\cokkatmanlimimari\CKM.DAL\bin\Debug\CKM.DAL.dll.config
+C:\LunaProjects\cokkatmanlimimari\CKM.DAL\bin\Debug\CKM.DAL.dll
+C:\LunaProjects\cokkatmanlimimari\CKM.DAL\bin\Debug\CKM.DAL.pdb
+C:\LunaProjects\cokkatmanlimimari\CKM.DAL\obj\Debug\CKM.DAL.csproj.AssemblyReference.cache
+C:\LunaProjects\cokkatmanlimimari\CKM.DAL\obj\Debug\CKM.DAL.csproj.CoreCompileInputs.cache
+C:\LunaProjects\cokkatmanlimimari\CKM.DAL\obj\Debug\CKM.DAL.dll
+C:\LunaProjects\cokkatmanlimimari\CKM.DAL\obj\Debug\CKM.DAL.pdb

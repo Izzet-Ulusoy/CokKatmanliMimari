@@ -1,0 +1,10 @@
+C:\LunaProjects\cokkatmanlimimari\CKM.BL\bin\Debug\CKM.BL.dll
+C:\LunaProjects\cokkatmanlimimari\CKM.BL\bin\Debug\CKM.BL.pdb
+C:\LunaProjects\cokkatmanlimimari\CKM.BL\bin\Debug\CKM.DAL.dll
+C:\LunaProjects\cokkatmanlimimari\CKM.BL\bin\Debug\CKM.DAL.pdb
+C:\LunaProjects\cokkatmanlimimari\CKM.BL\bin\Debug\CKM.DAL.dll.config
+C:\LunaProjects\cokkatmanlimimari\CKM.BL\obj\Debug\CKM.BL.csproj.AssemblyReference.cache
+C:\LunaProjects\cokkatmanlimimari\CKM.BL\obj\Debug\CKM.BL.csproj.CoreCompileInputs.cache
+C:\LunaProjects\cokkatmanlimimari\CKM.BL\obj\Debug\CKM.BL.csproj.CopyComplete
+C:\LunaProjects\cokkatmanlimimari\CKM.BL\obj\Debug\CKM.BL.dll
+C:\LunaProjects\cokkatmanlimimari\CKM.BL\obj\Debug\CKM.BL.pdb
