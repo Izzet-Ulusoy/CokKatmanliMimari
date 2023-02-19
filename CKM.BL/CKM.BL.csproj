@@ -42,12 +42,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BL.cs" />
+    <Compile Include="OgrenciBL.cs" />
+    <Compile Include="OgretmenBL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CKM.DAL\CKM.DAL.csproj">
       <Project>{b499567a-6c82-46b7-90fb-4782c9585118}</Project>
       <Name>CKM.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CKM.Entity\CKM.Entity.csproj">
+      <Project>{b11063df-4529-4af8-b2ee-da2ffa94c2c9}</Project>
+      <Name>CKM.Entity</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

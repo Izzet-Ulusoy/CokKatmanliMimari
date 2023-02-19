@@ -11,9 +11,10 @@ namespace CKM.DAL
 {
     public class DAL
     {
+        Baglanti baglanti = new Baglanti();
         private SqlCommand SorguYaz(string Sorgu, CommandType SorguTipi)
         {
-            SqlCommand cmd = Baglanti.BaglantiKablosu.CreateCommand();
+            SqlCommand cmd = baglanti.BaglantiKablosu.CreateCommand();
             cmd.CommandText = Sorgu;
             cmd.CommandType = SorguTipi;
             return cmd;
@@ -30,7 +31,6 @@ namespace CKM.DAL
         {
             try
             {
-
                 SqlParameter parametre = new SqlParameter();
                 parametre.ParameterName = ParametreAdi;
                 parametre.Value = ParametreDegeri;

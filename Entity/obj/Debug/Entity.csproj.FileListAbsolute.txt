@@ -1,0 +1,6 @@
+C:\ZET\CokKatmanliMimari\Entity\bin\Debug\Entity.dll
+C:\ZET\CokKatmanliMimari\Entity\bin\Debug\Entity.pdb
+C:\ZET\CokKatmanliMimari\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\ZET\CokKatmanliMimari\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\ZET\CokKatmanliMimari\Entity\obj\Debug\Entity.dll
+C:\ZET\CokKatmanliMimari\Entity\obj\Debug\Entity.pdb

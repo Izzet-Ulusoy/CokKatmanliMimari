@@ -8,3 +8,15 @@ C:\LunaProjects\cokkatmanlimimari\CKM.BL\obj\Debug\CKM.BL.csproj.CoreCompileInpu
 C:\LunaProjects\cokkatmanlimimari\CKM.BL\obj\Debug\CKM.BL.csproj.CopyComplete
 C:\LunaProjects\cokkatmanlimimari\CKM.BL\obj\Debug\CKM.BL.dll
 C:\LunaProjects\cokkatmanlimimari\CKM.BL\obj\Debug\CKM.BL.pdb
+C:\ZET\CokKatmanliMimari\CKM.BL\bin\Debug\CKM.BL.dll
+C:\ZET\CokKatmanliMimari\CKM.BL\bin\Debug\CKM.BL.pdb
+C:\ZET\CokKatmanliMimari\CKM.BL\bin\Debug\CKM.DAL.dll
+C:\ZET\CokKatmanliMimari\CKM.BL\bin\Debug\CKM.DAL.pdb
+C:\ZET\CokKatmanliMimari\CKM.BL\bin\Debug\CKM.DAL.dll.config
+C:\ZET\CokKatmanliMimari\CKM.BL\obj\Debug\CKM.BL.csproj.AssemblyReference.cache
+C:\ZET\CokKatmanliMimari\CKM.BL\obj\Debug\CKM.BL.csproj.CoreCompileInputs.cache
+C:\ZET\CokKatmanliMimari\CKM.BL\obj\Debug\CKM.BL.csproj.CopyComplete
+C:\ZET\CokKatmanliMimari\CKM.BL\obj\Debug\CKM.BL.dll
+C:\ZET\CokKatmanliMimari\CKM.BL\obj\Debug\CKM.BL.pdb
+C:\ZET\CokKatmanliMimari\CKM.BL\bin\Debug\CKM.Entity.dll
+C:\ZET\CokKatmanliMimari\CKM.BL\bin\Debug\CKM.Entity.pdb

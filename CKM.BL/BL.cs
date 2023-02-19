@@ -10,11 +10,6 @@ namespace CKM.BL
 {
     public class BL
     {
-        DAL.DAL dal = new DAL.DAL();
-        public int OgretmenEkle(string Adi, string Soyadi, string Bransi)
-        {
-            dal.EkleSilGuncelle("", CommandType.StoredProcedure);
-            return 1;
-        }
+        
     }
 }

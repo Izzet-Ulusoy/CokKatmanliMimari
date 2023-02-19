@@ -8,11 +8,11 @@ using System.Configuration;
 
 namespace CKM.DAL
 {
-    static class Baglanti
+    class Baglanti
     {
-        static SqlConnection baglanti;
+        SqlConnection baglanti;
 
-        public static SqlConnection BaglantiKablosu
+        public SqlConnection BaglantiKablosu
         {
             get
             {
@@ -35,7 +35,7 @@ namespace CKM.DAL
                 }
             }
         }
-        private static string Provider()
+        private string Provider()
         {
             string baglantiCumlesi = "BaglantiCumlesi";
             return ConfigurationManager.AppSettings[baglantiCumlesi];
